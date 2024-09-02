@@ -1,0 +1,1 @@
+Conducted an in-depth analysis of a music store database using SQL and Workbench. Key insights included top-selling genres and artists, popular cities, customer buying behaviour, top customers, and revenue trends. Transformed raw data into actionable business insights to optimize store operations and enhance customer experience.
